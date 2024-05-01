@@ -30,7 +30,7 @@
     .logo {
         cursor: pointer;
         img {
-            height: 50px;
+           width: 150px;
         }
     }
     .menuItems {
@@ -56,7 +56,7 @@
             }
             cursor: pointer;
             &:hover {
-                color: var(--pink);
+                color: var(--red);
             }
         }
     }

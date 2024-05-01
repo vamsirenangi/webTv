@@ -7,7 +7,8 @@ import { useNavigate, useLocation } from "react-router-dom";
 import "./Style.scss";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-import logo from "../../assets/movix-logo.svg";
+import logo from "../../assets/WebTv_transparent.png";
+
 
 const Header = () => {
     const [show, setShow] = useState("top");
